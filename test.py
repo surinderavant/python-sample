@@ -1,2 +1,4 @@
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
+
+
 print 'hi'
